@@ -1,0 +1,19 @@
+{
+  "name": "balanced-string",
+  "version": "1.0.0",
+  "main": "balanced_string.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weraisedup/balanced-string.git"
+  },
+  "bugs": {
+    "url": "https://github.com/weraisedup/balanced-string/issues"
+  },
+  "homepage": "https://github.com/weraisedup/balanced-string#readme",
+  "description": ""
+}
